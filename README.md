@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/hamidamin9/hamidamin9/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Hamid Amin.</h1>
 <h3 align="center">A passionate full stack developer from Pakistan.</h3>
 
